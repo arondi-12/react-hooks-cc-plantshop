@@ -108,7 +108,7 @@ App
 1. Clone the repository:
 
 ```bash
-git 
+git clone git@github.com:arondi-12/react-hooks-cc-plantshop.git
 cd plantsy
 ```
 
