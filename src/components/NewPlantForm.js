@@ -18,6 +18,11 @@ function NewPlantForm({ onAddPlant }) {
     })
       .then((response) => response.json())
       .then((addedPlant) => onAddPlant(addedPlant)); // Add new plant to the state
+
+      //This clears the input field after successful addition
+      setName("");
+      setImage("");
+      setPrice("");
   };
 
   return (

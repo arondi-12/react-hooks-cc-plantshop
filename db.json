@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Charming",
+      "image": "https://nairobigifters.co.ke/wp-content/uploads/2020/10/a4.jpg",
+      "price": 34,
+      "id": 8
     }
   ]
 }
